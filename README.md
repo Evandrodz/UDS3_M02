@@ -4,7 +4,7 @@
 ### Project/Business Purpose: 
 - - need to include ->>Proj_Def - Finding Donors for CharityML.pdf
 
-### Deleivery: 
+### Delivery: 
 - finding_donors.html
 - finding_donors.ipynb
 
